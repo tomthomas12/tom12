@@ -1,0 +1,15 @@
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.csproj.AssemblyReference.cache
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.AssemblyInfoInputs.cache
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.AssemblyInfo.cs
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.csproj.CoreCompileInputs.cache
+C:\Users\23652900\Desktop\tom\bin\Debug\net7.0\tom.exe
+C:\Users\23652900\Desktop\tom\bin\Debug\net7.0\tom.deps.json
+C:\Users\23652900\Desktop\tom\bin\Debug\net7.0\tom.runtimeconfig.json
+C:\Users\23652900\Desktop\tom\bin\Debug\net7.0\tom.dll
+C:\Users\23652900\Desktop\tom\bin\Debug\net7.0\tom.pdb
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.dll
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\refint\tom.dll
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.pdb
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\tom.genruntimeconfig.cache
+C:\Users\23652900\Desktop\tom\obj\Debug\net7.0\ref\tom.dll
